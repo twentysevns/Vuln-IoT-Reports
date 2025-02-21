@@ -34,6 +34,7 @@ Writer		: twentysevns@proton.me
 ![image](./2025-02-21_screenshot_007.png)
 
 ### Result
-```User: root
-Pass: root```
-
+```
+User: root
+Pass: root
+```
