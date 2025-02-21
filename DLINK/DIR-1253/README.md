@@ -11,14 +11,14 @@ Firmware Link	: https://github.com/twentysevns/DIR-1253/releases/download/releas
 Notes		: This report are created from my own property, and Firmware are not release in anywhere so i ask the Vendor to got last update for my DIR-1253.
 Writer		: twentysevns@proton.me
 ```
-### How to.
+### How to
 1. Analyzing with ```binwalk``` and got rootfs decimal address "2456610".
 ![image](./2025-02-21_screenshot_000.png)
 2. Extract with ```dd``` named with ```squash.img```.
 ![image](./2025-02-21_screenshot_001.png)
 3. After that extract with ```unsquash``` the result are ```squashfs-root``` directory.
 ![image](./2025-02-21_screenshot_002.png)
-4. Go to ```./squashfs-root/etc``` here you can see the root password
+4. Go to ```./squashfs-root/etc``` here you can see the root password in ```shadow.sample```
 ![image](./2025-02-21_screenshot_004.png)
 5. Crack it with ```john``` the password are same as user ```root``` 
 ![image](./2025-02-21_screenshot_005.png)
