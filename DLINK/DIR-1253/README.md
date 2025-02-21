@@ -30,7 +30,7 @@ Writer		: twentysevns@proton.me
 6. All services linked to ```/var``` directory, so that mean nothing yup?
 ![image](./2025-02-21_screenshot_006.png)
 
-7. Here you can see in ```./etc/init.d/``` directory, which mean that directory are will executed on boot that script containing about copying ```shadow.sample``` to ```/var``` which mean the password what we have crack are in use, and ```/var``` a runtime environment after bootup.
+7. Here you can see in ```./etc/init.d/``` directory, which mean that directory are will executed on boot that script containing about copying ```shadow.sample``` to ```/var``` which mean the password what we have crack are in use, and ```/var``` are main environment after bootup.
 ![image](./2025-02-21_screenshot_007.png)
 
 ### Result
