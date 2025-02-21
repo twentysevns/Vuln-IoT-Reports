@@ -5,11 +5,11 @@
 Manufacture Link: http://www.dlinktw.com.tw
 Product Name	: P/N: IIR1253EID...A1E (aka. DLINK_DIR-1253)
 Product Version	: H/W Ver.:A1
-				: F/W Ver.:V1.6.1303 (Before Update)
+		: F/W Ver.:V1.6.1303 (Before Update)
 Firmware Version: V1.6.1684 (Lastest)
 Firmware Link	: https://github.com/twentysevns/DIR-1253/releases/download/release/DLINK_N2M_ID_V1.6.1684.bin
-Notes			: This report are created from my own property, and Firmware are not release in anywhere so i ask the Vendor to got last update for my DIR-1253.
-Writer			: twentysevns@proton.me
+Notes		: This report are created from my own property, and Firmware are not release in anywhere so i ask the Vendor to got last update for my DIR-1253.
+Writer		: twentysevns@proton.me
 ```
 ### How to.
 1. Analyzing with ```binwalk``` and got rootfs decimal address "2456610".
