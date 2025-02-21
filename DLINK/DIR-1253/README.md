@@ -38,3 +38,9 @@ Writer		: twentysevns@proton.me
 User: root
 Pass: root
 ```
+
+### Reference
+```
+https://nvd.nist.gov/vuln/detail/CVE-2024-37630#VulnChangeHistorySection
+https://cwe.mitre.org/data/definitions/276.html
+```
