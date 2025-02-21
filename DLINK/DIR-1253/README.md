@@ -39,7 +39,7 @@ User: root
 Pass: root
 ```
 
-### Reference
+### References
 ```
 https://nvd.nist.gov/vuln/detail/CVE-2024-37630#VulnChangeHistorySection
 https://cwe.mitre.org/data/definitions/276.html
