@@ -18,7 +18,7 @@ Writer		: twentysevns@proton.me
 2. Extract with ```dd``` named with ```squash.img```.
 ![image](./2025-02-21_screenshot_001.png)
 
-3. After that extract with ```unsquash``` the result are ```squashfs-root``` directory.
+3. After that extract with ```unsquashfs``` the result are ```squashfs-root``` directory.
 ![image](./2025-02-21_screenshot_002.png)
 
 4. Go to ```./squashfs-root/etc``` here you can see the root password in ```shadow.sample```
