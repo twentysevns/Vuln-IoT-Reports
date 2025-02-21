@@ -31,8 +31,9 @@ Writer		: twentysevns@proton.me
 ![image](./2025-02-21_screenshot_006.png)
 
 7. Here you can see in ```./etc/init.d/``` directory, which mean that directory are will executed on boot that script containing about copying ```shadow.sample``` to ```/var``` which mean the password what we have crack are in use.
+![image](./2025-02-21_screenshot_007.png)
 
 ### Result
 ```User: root```
 ```Pass: root```
-![image](./2025-02-21_screenshot_007.png)
+
