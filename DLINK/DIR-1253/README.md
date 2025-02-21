@@ -1,4 +1,4 @@
-# D-Link DIR-1253 Hardcode Vuln.
+# D-Link DIR-1253 Hardcode Vulnerability.
 
 ### Product Information
 ```
